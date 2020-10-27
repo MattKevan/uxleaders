@@ -1,0 +1,20 @@
+<div class="col-12 col-sm-6 col-lg-4 mb-4">
+	<div class="teaser teaser-grid">
+		<a href="{{ item.url | prepend: site.baseurl }}">
+			{% if item.image %}
+				<img src="/images/{{ item.image }}" class="fullwidth">
+			{% else %}
+				<img src="/images/placeholder.jpg" class="fullwidth">
+			{% endif %}
+		</a>
+		
+		<h4><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
+		<p>{{ item.description }}</p>
+		
+		<p class="postmeta s">
+			<strong>{{ item.author }}</strong><br>
+			{{ item.date | date: "%-d %B %Y" }}
+		</p>
+		
+	</div>
+</div>

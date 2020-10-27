@@ -2,30 +2,16 @@
 title: UX Leaders
 layout: page
 ---
-<hr>
-<h2>Latest projects</h2>
-<div class="row grid">
-		{% assign sort = site.projects | sort: 'date' | reverse %}
-		{% for item in sort limit: 3 %}
-			<div class="col-12 col-sm-4">
-			    {% include work-teaser.html %}
-			</div>
-		{% endfor %}
-</div>
-
-<p class="link"><a href="/projects">See more »</a></p>
 
 <hr>
-
 
 <h2>Latest articles</h2>
-
-{% assign datesort = site.articles | sort: 'date' | reverse %}
-{% for article in datesort limit: 3 %}
-{% include article-teaser.html %}
-
-
+<div class="row">
+{% assign sorted = site.articles | sort: 'date' | reverse %}
+{% for item in sorted %}
+	{% include teaser-grid.html %}
 {% endfor %}
+</div>
 <p class="link"><a href="/articles">See more »</a></p>
 
 

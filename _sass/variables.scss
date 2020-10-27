@@ -1,0 +1,31 @@
+//@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans:wght@300;400;700&display=swap');
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('fonts/work-sans/worksans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('fonts/work-sans/worksans-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Basic:ital,wght@0,400;0,700;1,400&display=swap');
+
+$font-family-sans-serif:	'Gentium Basic', Helvetica, Arial, sans-serif;
+$headings-font-family:      'Work Sans', Helvetica, Arial, sans-serif;
+
+
+$headings-font-weight:		bold !default;
+$font-weight-base:          normal;
+$line-height-base:          1.8 !default;
+
+$blue:    					#2962FF !default;
+
+
+.btn-primary.active		{
+}
