@@ -12,6 +12,10 @@ description: Seven styles of leadership, ranging from authoritarian to permissiv
 author: Matt Kevan
 
 ---
+The Tannenbaum-Schmidt Leadership Continuum is a model showing the relationship between the amount of authority you exercise as a leader and the freedom you give your team to make decisions.
+
+At one end are leaders who just tell the team what to do, and at the other are leaders who don't give any guidance whatsoever. As you move from one end of the continuum to the other, your direct use of authority will decrease as you trust your team more and their skills and experience increase. 
+
 ## **Tells**
 
 ### **The leader makes a decision and announces it**
