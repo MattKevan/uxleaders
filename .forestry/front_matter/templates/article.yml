@@ -4,25 +4,38 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
-- type: text
-  name: layout
-  label: layout
+  label: Date
+  default: now
+- name: layout
+  type: select
+  default: post
+  config:
+    required: false
+    options:
+    - post
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Layout
 - type: list
   name: tags
-  label: tags
+  label: Tags
+  config:
+    use_select: false
 - type: file
   name: image
-  label: image
+  label: Image
 - type: file
   name: cover
-  label: cover
+  label: Cover image
 - type: textarea
   name: description
-  label: description
+  label: Description
 - type: text
   name: author
-  label: author
+  label: Author
