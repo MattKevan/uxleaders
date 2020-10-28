@@ -1,16 +1,17 @@
 ---
 title: The leadership characteristics
-date: '2020-10-27 00:00:00'
+date: 2020-10-27 00:00:00
 layout: post
 tags:
 - Leadership
 - Characteristics
 image: characteristics.jpg
 cover: banner.jpg
-description: "This framework summarises the characteristics of effective leaders, focusing on yourself, others and the organisation."
+description: This framework summarises the characteristics of effective leaders, focusing
+  on yourself, others and the organisation.
 author: Matt Kevan
----
 
+---
 ## Tells – the manager’s approach is to ‘tell’
 The manager would often ‘tell’ directing the team on what they need to do and giving little or no consideration for them being actively involved. It’s about focusing on the task and getting the task done.
 
