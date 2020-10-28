@@ -52,7 +52,13 @@ The leader is aware that there may be discontent within the group and is making 
 
 ### The manager presents their decision and invites questions
 
-If the manager tends to explain their approach, they’ll often provide the background as to why they want something done in a certain way and by explaining they’ll naturally allow their team to ask questions.
+The leader continues to have control over the decision-making process – they identify the problem and create solutions. However, once this is done the leader invites the team to ask questions, giving a full explanation so they are aware of the context and consequences.
+
+Team members may influence the leader somewhat, as their questions dig into the problem and the leaders' confidence in the solution. This is the first step in two-way communication between the leader and team.
+
+Benefits:
+
+Drawbacks
 
 ## Tests – the manager invites discussion
 
