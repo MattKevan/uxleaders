@@ -7,37 +7,50 @@ tags:
 - Characteristics
 image: pattern.jpg
 cover: pattern-large.jpg
-description: 'Seven styles of leadership, ranging from authoritarian to '
+description: Seven styles of leadership, ranging from authoritarian to permissive,
+  and the benefits and drawbacks of each.
 author: Matt Kevan
 
 ---
-### **Tells – the leader makes a decision and announces it**
+## **Tells**
+
+### **The leader makes a decision and announces it**
 
 This sort of leader tells the team what to do, without involving them or considering their opinions. The leader identifies the problem, comes up with the solution and instructs the team to implement it. It’s about focusing on the task and getting the task done.
 
-**Benefits**
+**Benefits:**
 
 * Decisions can be made quickly
 * Clear accountability
 * No politics or disputes during the decision making process.
 
-**Drawbacks**
+**Drawbacks:**
 
 * The leader does not make full use of the team's skills or knowledge
 * The leader may miss things picked up by other team members
 * Does not develop or grow team members.
 
-### Sells – the manager sells their decision to the team
+## Sells
+
+### The manager sells their decision to the team
 
 The leader still takes full responsibility for the decision making process, identifying problems and developing solutions without input from the team. However, once the decision has been taken, they make an effort to get the team on board, emphasising its benefits and addressing  objections.
 
 The leader is aware that there may be discontent within the group and is making an effort to address it, but is not yet willing to give up control over the decision-making process.
 
-Benefits
+**Benefits:**
 
-Drawbacks
+* The leader still has full control, so decisions can be made quickly with little room for politics or diversion
+* The decision may be more readily accepted if the leader explains the  the decision and sells its benefits.
 
-## Explains – the manager ‘explains’ why
+**Drawbacks:**
+
+* Team members have no say in the process, leading to frustration about decisions being taken behind closed doors.
+* The leader doesn't give the team the chance to highlight issues that may not have been considered.
+
+## Suggests
+
+### The manager presents their decision and invites questions
 
 If the manager tends to explain their approach, they’ll often provide the background as to why they want something done in a certain way and by explaining they’ll naturally allow their team to ask questions.
 
