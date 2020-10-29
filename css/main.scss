@@ -437,6 +437,9 @@ p.weblink {
 }
 footer {
 	font-family: $headings-font-family;
+	background-color: #333;
+	color: #fff;
+	p {margin: 0;}
 }
 .site-footer {
 	background-color: #2962FF;

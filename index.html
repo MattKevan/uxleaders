@@ -7,11 +7,11 @@ layout: page
 
 <h2>Latest articles</h2>
 <div class="row">
-{% assign sorted = site.articles | sort: 'date' | reverse %}
-{% for item in sorted %}
-	{% include teaser-grid.html %}
-{% endfor %}
+	{% assign sorted = site.articles | sort: 'date' | reverse %}
+	{% for item in sorted %}
+		{% include teaser-grid.html %}
+	{% endfor %}
 </div>
-<p class="link"><a href="/articles">See more »</a></p>
+
 
 
