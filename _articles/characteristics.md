@@ -1,5 +1,5 @@
 ---
-title: The characteristics of effective leaders
+title: The characteristics of good leaders
 date: 2020-10-27 00:00:00
 layout: post
 tags:
