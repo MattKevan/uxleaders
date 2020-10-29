@@ -1,34 +1,83 @@
 ---
-title: The leadership characteristics
-date: '2020-10-27 00:00:00'
+title: The characteristics of good leaders
+date: 2020-10-27 00:00:00
 layout: post
 tags:
 - Leadership
 - Characteristics
 image: characteristics.jpg
 cover: banner.jpg
-description: "This framework summarises the characteristics of effective leaders, focusing on yourself, others and the organisation."
+description: A summary of the traits and attributes of effective leaders, focusing
+  on yourself, others and the organisation.
 author: Matt Kevan
+
 ---
+Leadership can be a somewhat vague concept, so and this list outlines the main attributes of a good leader, and provides a point of reference to work towards.
 
-## Tells – the manager’s approach is to ‘tell’
-The manager would often ‘tell’ directing the team on what they need to do and giving little or no consideration for them being actively involved. It’s about focusing on the task and getting the task done.
+It's useful to compare your own behaviours and characteristics against this list as a way of uncovering which areas you need to work on, whether through self-assessment or by asking colleagues, team members and managers. What should you start, stop or continue?
 
-## Sells – the manager ‘sells’ what they’re going to do
-At this stage the manager is beginning to consider their impact and whilst they’ll still take a ‘telling’ approach this will often be softened by an explanation as to why they should do something a certain way. Often giving them the benefits and reasons why not to do it the way the manager wants it to happen.
+### **Leading yourself**
 
-## Explains – the manager ‘explains’ why
-If the manager tends to explain their approach, they’ll often provide the background as to why they want something done in a certain way and by explaining they’ll naturally allow their team to ask questions.
+**Acting with integrity**
 
+* Being professional
+* Acting in the interests of all those involved
 
-## Tests – the manager invites discussion
-A manager at this stage on the continuum has already identified the approach they want to take but is aware that their team could influence it and would often ‘test’ out their ideas with the team. At this stage, the team will start to feel more involved and more motivated.
+**Being honest and consistent**
 
-## Selects – the leader starts to include the team
-At this stage you’ll start to see leadership behaviour becoming more apparent. Here the leader is working with their team, presenting them with situations or challenges and whilst they might guide them the purpose of this approach to generate discussion with the leader deciding on the final approach.
+* Being, and being seen to be, fair
 
-## Consults – the leader starts to consult with their team
-The Leader in you is beginning to show, your empowering your team to work with you to look at challenges, to solve their own problems and make their own decisions. You will of course still set the boundaries to work within but your team will start to take ownership and accountability.
+**Being decisive**
 
-## Joins – the leader is working alongside their team
-As you join with your team you’ll find that they take responsibility. They’ll solve their own problems, they’ll work with you, not for you and will all be driving for the same desired result.
+* Being prepared to take tough decisions and risks, as appropriate
+
+**Resolving complex problems**
+
+* Being creative in solving problems
+
+**Acting with integrity**
+
+* Being professional
+* Acting in the interests of all those involved
+
+### Leading and developing others
+
+**Enabling**
+
+* Empowering people in a way that motivates and develops them
+
+**Inspiring others**
+
+* Being able to inspire others
+* Being able to motivate others to achieve goals
+
+**Being accessible**
+
+* Being approachable and not ‘status-conscious’
+* Making time to discuss people’s problems
+
+**Encouraging change**
+
+* Being supportive to others in questioning traditional approaches and finding new ways to solve problems
+
+### Leading the organisation
+
+**Networking and achieving**
+
+* Building and maintaining useful networks
+* Achieving goals set
+
+**Supporting a developmental culture**
+
+* Being supportive when mistakes are made
+* Encouraging critical feedback about self and standards achieved Focusing effort
+* Being team oriented in problem-solving and decision-making
+
+**Building a shared vision**
+
+* Encouraging the team to contribute to the vision
+* Seeking commitment and enthusiasm
+
+**Facilitating change sensitively**
+
+* Considering the impact of change on a range of people.
