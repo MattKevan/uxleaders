@@ -5,7 +5,6 @@ layout: page
 
 <hr>
 
-<h2>Latest articles</h2>
 <div class="row">
 	{% assign sorted = site.articles | sort: 'date' | reverse %}
 	{% for item in sorted %}
